@@ -1,0 +1,16 @@
+{
+  "name": "14-12-2020",
+  "version": "1.0.0",
+  "description": "",
+  "index": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}

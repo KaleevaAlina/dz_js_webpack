@@ -1,0 +1,28 @@
+#demo {
+  color: red;
+  width: 250px;
+ 
+}
+#demo2 {
+  display: flex;	
+  flex-direction: column;
+  color: red;
+  width: 200px;
+}
+#demo3 {
+  display: flex;	
+  flex-direction: column;
+  color: red;
+  width: 400px;
+}
+hr {
+  width: 200px;
+  float: left;  
+}
+
+#demo3b{
+  width: 250px;
+   display: flex;	
+  flex-direction: column; 
+}
+
